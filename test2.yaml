@@ -16,4 +16,4 @@ spec:
       - name: example-container
         image: example-image
         ports:
-        - containerPort: 8080
+        - containerPort: 8081
